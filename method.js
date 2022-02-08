@@ -23,3 +23,8 @@ student.takeExame();
 const reaming = student.treatDey(500, 39);
 const reaming2 = student.treatDey(500, 37);
 console.log(reaming, reaming2);
+
+// summary from this 
+
+// You can write the function as the value of the object
+// which is call method

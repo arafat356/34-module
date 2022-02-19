@@ -22,7 +22,9 @@ const NormalGolam = {
     name: 'Normal Golam'
 }
 
-Tomandjerry.treatDey.call(Herobalam, 500);
+// Tomandjerry.treatDey.call(Herobalam, 500);
 
 
-// 35.7 er 3 mt 26s s
+Tomandjerry.treatDey.apply(Herobalam, [400, 100, 50])
+Tomandjerry.treatDey.apply(Herobalam, [1000, 700, 50])
+Tomandjerry.treatDey.apply(NormalGolam, [800, 100, 300])
